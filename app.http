@@ -1,0 +1,7 @@
+GET http://localhost:3000/todos/?search_q=todo
+###
+GET http://localhost:3000/todoss/?priority=high
+###
+GET http://localhost:3000/todooos/?priority=high&status=IN PROGRESS
+###
+GET http://localhost:3000/tod/?searrch_q=PLAY
